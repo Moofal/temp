@@ -1,0 +1,10 @@
+defect_type: | the target attribute
+
+defect_id: label.
+product_id: label.
+defect_type: Cosmetic, Functional, Structural.
+defect_date: MM/DD/YYYY.
+defect_location: Component, Internal, Surface.
+severity: Minor, Moderate, Critical.
+inspection_method: Visual Inspection, Automated Testing, Manual Testing.
+repair_cost: continuous.
